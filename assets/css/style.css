@@ -1,4 +1,4 @@
-/*allows for uniform box sizing throughout the webpage*/
+/*allow for uniform box sizing throughout the webpage*/
 * {
     box-sizing: border-box;
     padding: 0;

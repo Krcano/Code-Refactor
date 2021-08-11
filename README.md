@@ -6,4 +6,6 @@ In this html file I was able to make a few updates. I first added the alt attrib
 
 I also added the id tag to the search-engine-optimization div so when the viewer presses the link for it it will take them to the right spot on the webpage regarding the search engine optimization heading.
 
+![screenshot](./assets/images/screenshot.png)
+
 https://github.com/Krcano/Hw01.git

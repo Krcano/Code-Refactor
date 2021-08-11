@@ -13,9 +13,7 @@ I added comments throughout both files to show the purpose of the customiztions 
 
 Along the way i had some issues consolidating the classes because each time i tried to find a solution it broke the code which made me go back to square one but in the end with the help of my collaboraters/classmates we were able to work through it and come up with the finished product.
 
-![screenshot](./assets/images/Myscreenshot.png)
-
-https://krcano.github.io/Hw01/
+![screenshot](./assets/images/Myscreenshot.png)git
 
 
 https://krcano.github.io/Hw01/

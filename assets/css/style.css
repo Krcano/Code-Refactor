@@ -107,7 +107,8 @@ as the margins setting in the aside tag labeled benefits to match html tags*/
     max-width: 150px;
 }
 
-/* content-div class combines all the information and images in the section labeled content*/
+/* content-div class combines all the information and images in the section labeled content 
+with the same customizations*/
 .content-div {
     margin-bottom: 20px;
     padding: 50px;
